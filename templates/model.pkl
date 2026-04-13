@@ -1,0 +1,6 @@
+C:\Users\kavip\OneDrive\Desktop\flight project>python train_model.py
+[INFO] Loaded 67 rows from 'flights.csv'.
+[METRICS] MAE  : ₹2,993.85
+[METRICS] R²   : -2.1540
+[INFO] Model saved → 'model.pkl'
+[DONE] Training complete.
